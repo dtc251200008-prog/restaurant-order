@@ -1,0 +1,14 @@
+{
+  "name": "restaurant-order",
+  "version": "1.0.0",
+  "description": "Restaurant Order Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.1",
+    "prom-client": "^15.1.3"
+  }
+}
